@@ -1,1 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+*
+/*you can have your own font*/
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 20pt;
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+html, body
+{   
+    min-height: 100vh;
+    background: #2d2d2d;
+    height: 130%;
+    width: 100%; 
+}    
+
+nav ul{
+    margin: 0;
+}
+
+nav li{
+    display: inline;
+    padding: 0 5%;
+    /*how far apart the buttons are*/
+}
+
+nav a{
+    padding: .4em;
+    display:inline-block;
+    color: #ffffffb7;/*button color*/
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: rgba(87, 151, 224, 0.708);
+    color: white; /*hover effects*/
+    border-radius: 30px;
+}
+
+nav{
+    text-align: center;
+    font-size: 0.7em;
+    font-weight: lighter; /*change settings as needed*/
+    background-color: rgba(35, 35, 35, 0.693);
+    border-bottom: 3px solid #242424;
+}
+
+header{
+    position: sticky;
+    top: 0;
+}
+
+p{
+    color: rgb(150, 190, 250);
+    margin: 5%;
+}
+
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+h2{
+    margin: 5%;
+    color:rgb(66, 236, 255);
+    font-size: 1.5em;
+}
+
+
+a {
+    text-decoration: none;
+    color: #4ff4cb;
+    cursor: pointer
+}
 
