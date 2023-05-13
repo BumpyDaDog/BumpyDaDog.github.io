@@ -13,7 +13,7 @@
 html, body
 {   
     min-height: 100vh;
-    background: #2d2d2d;
+    background: rgb(234, 232, 231);
     height: 130%;
     width: 100%; 
 }    
@@ -55,12 +55,12 @@ header{
 }
 
 p{
-    color: rgb(150, 190, 250);
+    color: rgb(150, 90, 71);
     margin: 5%;
 }
 
 h1{
-    color: aquamarine;
+    color: white;
     text-align: center;
     font-size: 2em;
 }
