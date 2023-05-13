@@ -36,7 +36,7 @@ nav a{
 }
 
 nav a:hover{
-    background-color: rgba(87, 151, 224, 0.708);
+    background-color: rgba(227, 222, 222, 0.708);
     color: white; /*hover effects*/
     border-radius: 30px;
 }
