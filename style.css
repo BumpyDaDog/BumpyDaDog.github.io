@@ -60,11 +60,11 @@ p{
     margin: 5%;
 }
 
-h1{
+/*h1{
     color: rgb(214, 123, 71);
     text-align: center;
     font-size: 2em;
-}
+}*/
 
 
 h2{
@@ -78,5 +78,12 @@ a {
     text-decoration: none;
     color: #4ff4cb;
     cursor: pointer
+}
+
+img {
+    opacity: 0.4;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
