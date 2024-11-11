@@ -61,6 +61,7 @@ header {
 
 .nav__links li a:hover {
   color: #a3a6d7;
+  border-radius: 20em;
 }
 
 
